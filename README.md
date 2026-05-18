@@ -10,7 +10,6 @@ This project implements pet classification on the Oxford-IIIT Pet dataset using 
 - `trainer.py`: Training and evaluation logic.
 - `requirements.txt`: Python package dependencies.
 - `saved_models/`: Directory for saving trained weights.
-- `run.bat`: Example batch script for running multiple training experiments.
 
 ## Dependencies
 
