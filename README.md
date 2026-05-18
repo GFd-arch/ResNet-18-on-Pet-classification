@@ -9,7 +9,6 @@ This project implements pet classification on the Oxford-IIIT Pet dataset using 
 - `model.py`: Model definitions for `ResNet18` and `ViTTiny`.
 - `trainer.py`: Training and evaluation logic.
 - `requirements.txt`: Python package dependencies.
-- `saved_models/`: Directory for saving trained weights.
 
 ## Dependencies
 
